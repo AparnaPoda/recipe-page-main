@@ -112,6 +112,9 @@ li p {
 }
 .steps span {
     color: var(--Wenge-Brown);
+    font-family: "Outfit", sans-serif;
+    font-size: 0.77rem;
+    font-weight: 600;
 }
 .cals {
     display: flex;
