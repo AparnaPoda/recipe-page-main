@@ -56,14 +56,14 @@ h1 {
     color: var(--Dark-Charcoal);
     padding-top: 1rem;
 }
-.heading3 {
+.h3 {
     font-family: "Outfit", sans-serif;
     font-weight: 600;   
 }
 h2 {
     font-size: 1.3rem;
 }
-.heading3, .estimation {
+.h3, .estimation {
     color: var(--Dark-Raspberry);
 }
 .estimation b {
